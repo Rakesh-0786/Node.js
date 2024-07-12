@@ -1,0 +1,25 @@
+{
+  "name": "my-project",
+  "version": "1.0.1",
+  "description": "This is my projects which is used to handle PW node js dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test run"
+  },
+  "keywords": [
+    "Rakesh",
+    "kumar",
+    "My",
+    "project",
+    "PW",
+    "Skills"
+  ],
+  "author": "Rakesh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-script": "^2.0.5"
+  }
+}
